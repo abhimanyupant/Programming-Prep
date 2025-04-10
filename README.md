@@ -1,2 +1,8 @@
-"# Programming-Prep" 
-"# Programming-Prep" 
+# Competitive Programming Prep
+
+## Resources
+
+
+## Week-wise code
+
+
